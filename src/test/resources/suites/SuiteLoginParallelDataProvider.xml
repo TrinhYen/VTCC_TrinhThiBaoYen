@@ -4,7 +4,7 @@
     <test name="Login Test Parallel" parallel="methods" thread-count="2">
         <parameter name="browserName" value="chrome"/>
         <classes>
-            <class name="com.anhtester.Bai29_DataProvider.testcases.LoginTest" />
+            <class name="com.yenttb.Bai29_DataProvider.testcases.LoginTest" />
         </classes>
     </test>
 </suite>

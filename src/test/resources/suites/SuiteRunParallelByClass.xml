@@ -3,8 +3,8 @@
 <suite name="Suite Parallel Test" verbose="1">
     <test name="Parallel Test By Class" parallel="classes">
         <classes>
-            <class name="com.anhtester.Bai25_ParallelExecution.ChromeTest" />
-            <class name="com.anhtester.Bai25_ParallelExecution.EdgeTest" />
+            <class name="com.yenttb.Bai25_ParallelExecution.ChromeTest" />
+            <class name="com.yenttb.Bai25_ParallelExecution.EdgeTest" />
         </classes>
     </test>
 </suite>

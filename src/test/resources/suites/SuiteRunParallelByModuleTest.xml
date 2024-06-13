@@ -3,15 +3,15 @@
 <suite name="Suite Parallel Module Test" verbose="1" parallel="tests">
     <test name="Parallel Test 1">
         <classes>
-            <class name="com.anhtester.Bai25_ParallelExecution.ChromeTest" />
-            <class name="com.anhtester.Bai25_ParallelExecution.EdgeTest" />
+            <class name="com.yenttb.Bai25_ParallelExecution.ChromeTest" />
+            <class name="com.yenttb.Bai25_ParallelExecution.EdgeTest" />
         </classes>
     </test>
 
     <test name="Parallel Test 2">
         <classes>
-            <class name="com.anhtester.Bai25_ParallelExecution.ChromeTest" />
-            <class name="com.anhtester.Bai25_ParallelExecution.EdgeTest" />
+            <class name="com.yenttb.Bai25_ParallelExecution.ChromeTest" />
+            <class name="com.yenttb.Bai25_ParallelExecution.EdgeTest" />
         </classes>
     </test>
 </suite>

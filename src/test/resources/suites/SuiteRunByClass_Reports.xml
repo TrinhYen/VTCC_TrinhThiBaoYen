@@ -3,9 +3,9 @@
 <suite name="Suite Smoke Test" verbose="1">
     <test name="Smoke Test" parallel="classes">
         <classes>
-            <class name="com.anhtester.Bai34_AllureReports.testcases.LoginTest" />
-<!--            <class name="com.anhtester.Bai34_AllureReports.testcases.DashboardTest" />-->
-<!--            <class name="com.anhtester.Bai34_AllureReports.testcases.CustomerTest" />-->
+            <class name="com.yenttb.Bai34_AllureReports.testcases.LoginTest" />
+<!--            <class name="com.yenttb.Bai34_AllureReports.testcases.DashboardTest" />-->
+<!--            <class name="com.yenttb.Bai34_AllureReports.testcases.CustomerTest" />-->
         </classes>
     </test>
 </suite>

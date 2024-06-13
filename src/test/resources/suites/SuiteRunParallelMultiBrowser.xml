@@ -4,42 +4,42 @@
     <test name="Parallel Test 1">
         <parameter name="browserName" value="chrome"/>
         <classes>
-            <class name="com.anhtester.Bai25_ParallelExecution.CRMTest" />
+            <class name="com.yenttb.Bai25_ParallelExecution.CRMTest" />
         </classes>
     </test>
 
     <test name="Parallel Test 2">
         <parameter name="browserName" value="firefox"/>
         <classes>
-            <class name="com.anhtester.Bai25_ParallelExecution.CRMTest" />
+            <class name="com.yenttb.Bai25_ParallelExecution.CRMTest" />
         </classes>
     </test>
 
     <test name="Parallel Test 3">
         <parameter name="browserName" value="edge"/>
         <classes>
-            <class name="com.anhtester.Bai25_ParallelExecution.CRMTest" />
+            <class name="com.yenttb.Bai25_ParallelExecution.CRMTest" />
         </classes>
     </test>
 
     <test name="Parallel Test 4">
         <parameter name="browserName" value="chrome"/>
         <classes>
-            <class name="com.anhtester.Bai25_ParallelExecution.CRMTest" />
+            <class name="com.yenttb.Bai25_ParallelExecution.CRMTest" />
         </classes>
     </test>
 
     <test name="Parallel Test 5">
         <parameter name="browserName" value="chrome"/>
         <classes>
-            <class name="com.anhtester.Bai25_ParallelExecution.CRMTest" />
+            <class name="com.yenttb.Bai25_ParallelExecution.CRMTest" />
         </classes>
     </test>
 
     <test name="Parallel Test 6">
         <parameter name="browserName" value="chrome"/>
         <classes>
-            <class name="com.anhtester.Bai25_ParallelExecution.CRMTest" />
+            <class name="com.yenttb.Bai25_ParallelExecution.CRMTest" />
         </classes>
     </test>
 

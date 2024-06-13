@@ -3,12 +3,12 @@
 <suite name="Suite TestListener">
 
     <listeners>
-        <listener class-name="com.anhtester.listeners.TestListener"/>
+        <listener class-name="com.yenttb.listeners.TestListener"/>
     </listeners>
 
     <test name="Test TestListener">
         <classes>
-            <class name="com.anhtester.Exam.testcases.AddNewProductTest">
+            <class name="com.yenttb.Exam.testcases.AddNewProductTest">
             </class>
         </classes>
     </test>
