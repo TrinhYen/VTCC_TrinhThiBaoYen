@@ -73,7 +73,7 @@ public class WebUI {
         ExtentTestManager.logMessage(Status.PASS, "Click on element " + by);
     }
 
-<<<<<<< HEAD
+
     @Step("Click element {0}")
     public static void selectItemInDrodown(By dropdown, By selectedItem) {
         waitForElementVisible(dropdown);
@@ -87,8 +87,7 @@ public class WebUI {
 
     }
 
-=======
->>>>>>> b2c0500fb1409c705e657e6d240eb66dd1ce66b4
+
     @Step("Click element {0} with timeout {1}")
     public static void clickElement(By by, int timeout) {
         waitForElementToBeClickable(by, timeout);
